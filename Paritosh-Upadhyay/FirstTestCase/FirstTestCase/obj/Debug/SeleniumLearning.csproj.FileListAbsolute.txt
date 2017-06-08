@@ -1,8 +1,0 @@
-c:\users\paritosh\documents\visual studio 2015\Projects\FirstTestCase\FirstTestCase\bin\Debug\FirstTestCase.exe.config
-c:\users\paritosh\documents\visual studio 2015\Projects\FirstTestCase\FirstTestCase\bin\Debug\FirstTestCase.exe
-c:\users\paritosh\documents\visual studio 2015\Projects\FirstTestCase\FirstTestCase\bin\Debug\FirstTestCase.pdb
-c:\users\paritosh\documents\visual studio 2015\Projects\FirstTestCase\FirstTestCase\bin\Debug\WebDriver.dll
-c:\users\paritosh\documents\visual studio 2015\Projects\FirstTestCase\FirstTestCase\bin\Debug\WebDriver.xml
-c:\users\paritosh\documents\visual studio 2015\Projects\FirstTestCase\FirstTestCase\obj\Debug\SeleniumLearning.csprojResolveAssemblyReference.cache
-c:\users\paritosh\documents\visual studio 2015\Projects\FirstTestCase\FirstTestCase\obj\Debug\FirstTestCase.exe
-c:\users\paritosh\documents\visual studio 2015\Projects\FirstTestCase\FirstTestCase\obj\Debug\FirstTestCase.pdb

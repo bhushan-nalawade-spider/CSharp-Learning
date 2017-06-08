@@ -1,8 +1,0 @@
-C:\Users\Paritosh\documents\visual studio 2015\Projects\Grades\Grade.UnitTests\bin\Debug\Grade.UnitTests.dll
-C:\Users\Paritosh\documents\visual studio 2015\Projects\Grades\Grade.UnitTests\bin\Debug\Grade.UnitTests.pdb
-C:\Users\Paritosh\documents\visual studio 2015\Projects\Grades\Grade.UnitTests\bin\Debug\Grades.exe
-C:\Users\Paritosh\documents\visual studio 2015\Projects\Grades\Grade.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Paritosh\documents\visual studio 2015\Projects\Grades\Grade.UnitTests\bin\Debug\Grades.pdb
-C:\Users\Paritosh\documents\visual studio 2015\Projects\Grades\Grade.UnitTests\obj\Debug\Grade.UnitTests.csprojResolveAssemblyReference.cache
-C:\Users\Paritosh\documents\visual studio 2015\Projects\Grades\Grade.UnitTests\obj\Debug\Grade.UnitTests.dll
-C:\Users\Paritosh\documents\visual studio 2015\Projects\Grades\Grade.UnitTests\obj\Debug\Grade.UnitTests.pdb
