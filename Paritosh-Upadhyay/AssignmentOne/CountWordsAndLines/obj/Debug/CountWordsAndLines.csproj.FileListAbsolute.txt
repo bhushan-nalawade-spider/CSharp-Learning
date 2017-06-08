@@ -1,0 +1,8 @@
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountWordsAndLines\bin\Debug\CountWordsAndLines.exe.config
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountWordsAndLines\bin\Debug\CountWordsAndLines.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountWordsAndLines\bin\Debug\CountWordsAndLines.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountWordsAndLines\bin\Debug\ConsoleApplication1.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountWordsAndLines\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountWordsAndLines\obj\Debug\CountWordsAndLines.csprojResolveAssemblyReference.cache
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountWordsAndLines\obj\Debug\CountWordsAndLines.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountWordsAndLines\obj\Debug\CountWordsAndLines.pdb

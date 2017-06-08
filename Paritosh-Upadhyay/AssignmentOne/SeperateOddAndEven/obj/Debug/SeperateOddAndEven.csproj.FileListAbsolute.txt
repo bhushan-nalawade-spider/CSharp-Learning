@@ -1,0 +1,8 @@
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SeperateOddAndEven\bin\Debug\SeperateOddAndEven.exe.config
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SeperateOddAndEven\bin\Debug\SeperateOddAndEven.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SeperateOddAndEven\bin\Debug\SeperateOddAndEven.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SeperateOddAndEven\obj\Debug\SeperateOddAndEven.csprojResolveAssemblyReference.cache
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SeperateOddAndEven\obj\Debug\SeperateOddAndEven.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SeperateOddAndEven\obj\Debug\SeperateOddAndEven.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SeperateOddAndEven\bin\Debug\ConsoleApplication1.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SeperateOddAndEven\bin\Debug\ConsoleApplication1.pdb

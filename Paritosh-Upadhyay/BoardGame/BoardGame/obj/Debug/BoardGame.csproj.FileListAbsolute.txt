@@ -1,0 +1,6 @@
+c:\users\paritosh\documents\visual studio 2015\Projects\BoardGame\BoardGame\bin\Debug\BoardGame.exe.config
+c:\users\paritosh\documents\visual studio 2015\Projects\BoardGame\BoardGame\bin\Debug\BoardGame.exe
+c:\users\paritosh\documents\visual studio 2015\Projects\BoardGame\BoardGame\bin\Debug\BoardGame.pdb
+c:\users\paritosh\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.csprojResolveAssemblyReference.cache
+c:\users\paritosh\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.exe
+c:\users\paritosh\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.pdb

@@ -1,0 +1,6 @@
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CustomException\bin\Debug\CustomException.exe.config
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CustomException\bin\Debug\CustomException.exe
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CustomException\bin\Debug\CustomException.pdb
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CustomException\obj\Debug\CustomException.exe
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CustomException\obj\Debug\CustomException.pdb

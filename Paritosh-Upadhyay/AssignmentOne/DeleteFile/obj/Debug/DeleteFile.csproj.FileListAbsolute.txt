@@ -1,0 +1,8 @@
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\DeleteFile\bin\Debug\DeleteFile.exe.config
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\DeleteFile\bin\Debug\DeleteFile.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\DeleteFile\bin\Debug\DeleteFile.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\DeleteFile\bin\Debug\ConsoleApplication1.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\DeleteFile\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\DeleteFile\obj\Debug\DeleteFile.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\DeleteFile\obj\Debug\DeleteFile.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\DeleteFile\obj\Debug\DeleteFile.csprojResolveAssemblyReference.cache
