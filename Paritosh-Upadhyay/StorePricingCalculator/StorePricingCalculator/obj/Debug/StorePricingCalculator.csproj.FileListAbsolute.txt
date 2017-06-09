@@ -1,0 +1,6 @@
+c:\users\paritosh\documents\visual studio 2015\Projects\StorePricingCalculator\StorePricingCalculator\bin\Debug\StorePricingCalculator.exe.config
+c:\users\paritosh\documents\visual studio 2015\Projects\StorePricingCalculator\StorePricingCalculator\bin\Debug\StorePricingCalculator.exe
+c:\users\paritosh\documents\visual studio 2015\Projects\StorePricingCalculator\StorePricingCalculator\bin\Debug\StorePricingCalculator.pdb
+c:\users\paritosh\documents\visual studio 2015\Projects\StorePricingCalculator\StorePricingCalculator\obj\Debug\StorePricingCalculator.csprojResolveAssemblyReference.cache
+c:\users\paritosh\documents\visual studio 2015\Projects\StorePricingCalculator\StorePricingCalculator\obj\Debug\StorePricingCalculator.exe
+c:\users\paritosh\documents\visual studio 2015\Projects\StorePricingCalculator\StorePricingCalculator\obj\Debug\StorePricingCalculator.pdb

@@ -1,0 +1,8 @@
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountFrequencyOfAGivenWord\bin\Debug\CountFrequencyOfAGivenWord.exe.config
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountFrequencyOfAGivenWord\bin\Debug\CountFrequencyOfAGivenWord.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountFrequencyOfAGivenWord\bin\Debug\CountFrequencyOfAGivenWord.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountFrequencyOfAGivenWord\bin\Debug\ConsoleApplication1.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountFrequencyOfAGivenWord\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountFrequencyOfAGivenWord\obj\Debug\CountFrequencyOfAGivenWord.csprojResolveAssemblyReference.cache
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountFrequencyOfAGivenWord\obj\Debug\CountFrequencyOfAGivenWord.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\CountFrequencyOfAGivenWord\obj\Debug\CountFrequencyOfAGivenWord.pdb
