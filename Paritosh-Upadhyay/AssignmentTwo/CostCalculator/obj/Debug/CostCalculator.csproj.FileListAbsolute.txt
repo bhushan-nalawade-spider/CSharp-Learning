@@ -1,0 +1,6 @@
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CostCalculator\bin\Debug\CostCalculator.exe.config
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CostCalculator\bin\Debug\CostCalculator.exe
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CostCalculator\bin\Debug\CostCalculator.pdb
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CostCalculator\obj\Debug\CostCalculator.exe
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CostCalculator\obj\Debug\CostCalculator.pdb
+c:\users\paritosh\documents\visual studio 2015\Projects\AssignmentTwo\CostCalculator\obj\Debug\CostCalculator.csprojResolveAssemblyReference.cache

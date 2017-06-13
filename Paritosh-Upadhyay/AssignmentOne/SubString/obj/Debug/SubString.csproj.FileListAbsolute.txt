@@ -1,0 +1,8 @@
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SubString\bin\Debug\SubString.exe.config
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SubString\bin\Debug\SubString.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SubString\bin\Debug\SubString.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SubString\bin\Debug\ConsoleApplication1.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SubString\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SubString\obj\Debug\SubString.exe
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SubString\obj\Debug\SubString.pdb
+C:\Users\Paritosh\documents\visual studio 2015\Projects\ConsoleApplication1\SubString\obj\Debug\SubString.csprojResolveAssemblyReference.cache
