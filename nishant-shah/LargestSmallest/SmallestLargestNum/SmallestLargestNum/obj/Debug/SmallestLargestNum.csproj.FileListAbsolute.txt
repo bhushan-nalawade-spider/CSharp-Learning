@@ -1,0 +1,6 @@
+D:\bhushan-nalawade-spider\CSharp-Learning\nishant-shah\LargestSmallest\SmallestLargestNum\SmallestLargestNum\bin\Debug\SmallestLargestNum.exe.config
+D:\bhushan-nalawade-spider\CSharp-Learning\nishant-shah\LargestSmallest\SmallestLargestNum\SmallestLargestNum\bin\Debug\SmallestLargestNum.exe
+D:\bhushan-nalawade-spider\CSharp-Learning\nishant-shah\LargestSmallest\SmallestLargestNum\SmallestLargestNum\bin\Debug\SmallestLargestNum.pdb
+D:\bhushan-nalawade-spider\CSharp-Learning\nishant-shah\LargestSmallest\SmallestLargestNum\SmallestLargestNum\obj\Debug\SmallestLargestNum.csprojResolveAssemblyReference.cache
+D:\bhushan-nalawade-spider\CSharp-Learning\nishant-shah\LargestSmallest\SmallestLargestNum\SmallestLargestNum\obj\Debug\SmallestLargestNum.exe
+D:\bhushan-nalawade-spider\CSharp-Learning\nishant-shah\LargestSmallest\SmallestLargestNum\SmallestLargestNum\obj\Debug\SmallestLargestNum.pdb
