@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DCEE0EC4-9A43-4B30-9A06-F45FFCA8206E}</ProjectGuid>
+    <ProjectGuid>{06049B1D-2B95-4C25-921A-9D628E613016}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PracticePrograms</RootNamespace>
-    <AssemblyName>PracticePrograms</AssemblyName>
+    <RootNamespace>PR5_BinaryTriangle</RootNamespace>
+    <AssemblyName>PR5_BinaryTriangle</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LargestSmallest.cs" />
+    <Compile Include="PR5_BinaryTriangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

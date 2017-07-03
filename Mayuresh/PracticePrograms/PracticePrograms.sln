@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticePrograms", "PracticePrograms\PracticePrograms.csproj", "{DCEE0EC4-9A43-4B30-9A06-F45FFCA8206E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr1_LargestSmallest", "Pr1_LargestSmallest\Pr1_LargestSmallest.csproj", "{DCEE0EC4-9A43-4B30-9A06-F45FFCA8206E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR5_BinaryTriangle", "PR5_BinaryTriangle\PR5_BinaryTriangle.csproj", "{06049B1D-2B95-4C25-921A-9D628E613016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR9_SortEvenOdd", "PR9_SortEvenOdd\PR9_SortEvenOdd.csproj", "{3B8C13F5-3164-40DE-96BE-09547D7EA185}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{DCEE0EC4-9A43-4B30-9A06-F45FFCA8206E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCEE0EC4-9A43-4B30-9A06-F45FFCA8206E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCEE0EC4-9A43-4B30-9A06-F45FFCA8206E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06049B1D-2B95-4C25-921A-9D628E613016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06049B1D-2B95-4C25-921A-9D628E613016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06049B1D-2B95-4C25-921A-9D628E613016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06049B1D-2B95-4C25-921A-9D628E613016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8C13F5-3164-40DE-96BE-09547D7EA185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8C13F5-3164-40DE-96BE-09547D7EA185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8C13F5-3164-40DE-96BE-09547D7EA185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8C13F5-3164-40DE-96BE-09547D7EA185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

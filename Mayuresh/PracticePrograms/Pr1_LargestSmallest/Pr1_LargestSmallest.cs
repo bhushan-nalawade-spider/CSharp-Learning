@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PracticePrograms
 {
-    public class LargestSmallest
+    public class Pr1_LargestSmallest
     {
         public static void Main(string[] args)
         {
@@ -47,6 +47,8 @@ namespace PracticePrograms
 
             Console.WriteLine ("Largest number is: " + largestInt);
             Console.WriteLine ("Smallest number is: " + smallestInt);
+
+            Console.Read();
 
         }
     }
