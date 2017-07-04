@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR5_BinaryTriangle", "PR5_B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR9_SortEvenOdd", "PR9_SortEvenOdd\PR9_SortEvenOdd.csproj", "{3B8C13F5-3164-40DE-96BE-09547D7EA185}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr2_PrimeFromFile", "Pr2_PrimeFromFile\Pr2_PrimeFromFile.csproj", "{E2550351-1E15-4F50-BB0D-6740D6A32269}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3B8C13F5-3164-40DE-96BE-09547D7EA185}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B8C13F5-3164-40DE-96BE-09547D7EA185}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B8C13F5-3164-40DE-96BE-09547D7EA185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2550351-1E15-4F50-BB0D-6740D6A32269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2550351-1E15-4F50-BB0D-6740D6A32269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2550351-1E15-4F50-BB0D-6740D6A32269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2550351-1E15-4F50-BB0D-6740D6A32269}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
