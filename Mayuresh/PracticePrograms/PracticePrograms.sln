@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr2_PrimeFromFile", "Pr2_Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr3_WordInSentence", "Pr3_WordInSentence\Pr3_WordInSentence.csproj", "{12DEF1CD-D476-4836-A0FC-FE1DEF58C69D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr4_WordsLinesChars", "Pr4_WordsLinesChars\Pr4_WordsLinesChars.csproj", "{48D5FC0E-01C2-445A-9E1B-92F42A5117E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{12DEF1CD-D476-4836-A0FC-FE1DEF58C69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12DEF1CD-D476-4836-A0FC-FE1DEF58C69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12DEF1CD-D476-4836-A0FC-FE1DEF58C69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D5FC0E-01C2-445A-9E1B-92F42A5117E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D5FC0E-01C2-445A-9E1B-92F42A5117E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D5FC0E-01C2-445A-9E1B-92F42A5117E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D5FC0E-01C2-445A-9E1B-92F42A5117E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
