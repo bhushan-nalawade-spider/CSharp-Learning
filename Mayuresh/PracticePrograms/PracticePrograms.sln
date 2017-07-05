@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr3_WordInSentence", "Pr3_W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr4_WordsLinesChars", "Pr4_WordsLinesChars\Pr4_WordsLinesChars.csproj", "{48D5FC0E-01C2-445A-9E1B-92F42A5117E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr6_Substrings", "Pr6_Substrings\Pr6_Substrings.csproj", "{717171C7-4E6B-4425-BF64-AB7CA50A11C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr7_Deletefile", "Pr7_Deletefile\Pr7_Deletefile.csproj", "{40B61476-A968-404B-98EE-55C04335A87B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{48D5FC0E-01C2-445A-9E1B-92F42A5117E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48D5FC0E-01C2-445A-9E1B-92F42A5117E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48D5FC0E-01C2-445A-9E1B-92F42A5117E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717171C7-4E6B-4425-BF64-AB7CA50A11C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717171C7-4E6B-4425-BF64-AB7CA50A11C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717171C7-4E6B-4425-BF64-AB7CA50A11C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717171C7-4E6B-4425-BF64-AB7CA50A11C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B61476-A968-404B-98EE-55C04335A87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B61476-A968-404B-98EE-55C04335A87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B61476-A968-404B-98EE-55C04335A87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B61476-A968-404B-98EE-55C04335A87B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
