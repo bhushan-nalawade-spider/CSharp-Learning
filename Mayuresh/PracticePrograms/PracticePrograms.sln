@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr6_Substrings", "Pr6_Subst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr7_Deletefile", "Pr7_Deletefile\Pr7_Deletefile.csproj", "{40B61476-A968-404B-98EE-55C04335A87B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr8_DuplicateElementsInArray", "Pr8_DuplicateElementsInArray\Pr8_DuplicateElementsInArray.csproj", "{1309872B-21AC-475B-9F36-471B53B3FBAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{40B61476-A968-404B-98EE-55C04335A87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B61476-A968-404B-98EE-55C04335A87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B61476-A968-404B-98EE-55C04335A87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1309872B-21AC-475B-9F36-471B53B3FBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1309872B-21AC-475B-9F36-471B53B3FBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1309872B-21AC-475B-9F36-471B53B3FBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1309872B-21AC-475B-9F36-471B53B3FBAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
