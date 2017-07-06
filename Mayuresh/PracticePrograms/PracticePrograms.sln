@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr7_Deletefile", "Pr7_Delet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr8_DuplicateElementsInArray", "Pr8_DuplicateElementsInArray\Pr8_DuplicateElementsInArray.csproj", "{1309872B-21AC-475B-9F36-471B53B3FBAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr10_Inheritance", "Pr10_Inheritance\Pr10_Inheritance.csproj", "{42B208F1-C4C3-4C5C-A297-11E8F9C62A78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1309872B-21AC-475B-9F36-471B53B3FBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1309872B-21AC-475B-9F36-471B53B3FBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1309872B-21AC-475B-9F36-471B53B3FBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B208F1-C4C3-4C5C-A297-11E8F9C62A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B208F1-C4C3-4C5C-A297-11E8F9C62A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B208F1-C4C3-4C5C-A297-11E8F9C62A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B208F1-C4C3-4C5C-A297-11E8F9C62A78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
