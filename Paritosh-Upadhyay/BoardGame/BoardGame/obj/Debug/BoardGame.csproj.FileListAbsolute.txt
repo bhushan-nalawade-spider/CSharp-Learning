@@ -4,3 +4,9 @@ c:\users\paritosh\documents\visual studio 2015\Projects\BoardGame\BoardGame\bin\
 c:\users\paritosh\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.csprojResolveAssemblyReference.cache
 c:\users\paritosh\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.exe
 c:\users\paritosh\documents\visual studio 2015\Projects\BoardGame\BoardGame\obj\Debug\BoardGame.pdb
+D:\bhushan-nalawade-spider\CSharp-Learning\Paritosh-Upadhyay\BoardGame\BoardGame\bin\Debug\BoardGame.exe.config
+D:\bhushan-nalawade-spider\CSharp-Learning\Paritosh-Upadhyay\BoardGame\BoardGame\bin\Debug\BoardGame.exe
+D:\bhushan-nalawade-spider\CSharp-Learning\Paritosh-Upadhyay\BoardGame\BoardGame\bin\Debug\BoardGame.pdb
+D:\bhushan-nalawade-spider\CSharp-Learning\Paritosh-Upadhyay\BoardGame\BoardGame\obj\Debug\BoardGame.csprojResolveAssemblyReference.cache
+D:\bhushan-nalawade-spider\CSharp-Learning\Paritosh-Upadhyay\BoardGame\BoardGame\obj\Debug\BoardGame.exe
+D:\bhushan-nalawade-spider\CSharp-Learning\Paritosh-Upadhyay\BoardGame\BoardGame\obj\Debug\BoardGame.pdb
