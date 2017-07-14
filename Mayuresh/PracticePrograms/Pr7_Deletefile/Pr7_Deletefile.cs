@@ -16,7 +16,7 @@ namespace Pr7_Deletefile
             String fileName = "\\Test.txt";
             String requiredPath = fileDirectory + fileName;
 
-            //createFile(requiredPath);
+           createFile(requiredPath);
             deleteFile(requiredPath);
 
             Console.Read();

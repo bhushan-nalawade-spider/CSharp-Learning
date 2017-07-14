@@ -22,7 +22,15 @@ namespace PracticePrograms
                 Console.WriteLine("Enter number " +(number+1) +" :");
                 string str = Console.ReadLine();
 
-                int enteredNum = Convert.ToInt32(str);
+                try
+                {
+                    int enteredNum = Convert.ToInt32(str);
+                    numberArray[number] = enteredNum;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.StackTrace);
+                }
 
 /*                while (enteredNum == 0)
                 {
@@ -32,7 +40,6 @@ namespace PracticePrograms
                     enteredNum = Convert.ToInt32(str);
                 }   */
 
-                numberArray[number] = enteredNum;
             }
 
             int largestInt = numberArray [0];

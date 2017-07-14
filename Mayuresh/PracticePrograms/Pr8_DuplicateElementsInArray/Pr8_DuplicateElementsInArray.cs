@@ -19,13 +19,13 @@ namespace Pr8_DuplicateElementsInArray
 
             int[] sampleArray = { 1, 2, 3, 4, 1, 2, 5, 6, 7, 3, 1, 2, 1};
 
-            int numberOfduplicateElements = countDuplicateElementsInArray(sampleArray);
+            int numberOfduplicateElements = CountDuplicateElementsInArray(sampleArray);
 
             Console.WriteLine("The number of duplicate elements is: " + numberOfduplicateElements);
             Console.ReadLine();
         }
 
-        private static int countDuplicateElementsInArray(int[] sampleArray)
+        private static int CountDuplicateElementsInArray(int[] sampleArray)
         {
             int numberOfduplicateElements = 0;
 
