@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Arrays 
 {
 
-	public int[] bubbleSort (int[] arr)
+	public  int[] bubbleSort (int[] arr)
 	{
 		int counter=0;
 		int arrlen = arr.length;
